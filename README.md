@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Vineela91
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Vineela_kadiam
+- 👀 I’m interested in technology 
+- 📫 Let's get connected on https://www.linkedin.com/in/vineelakadiam91/
 
 <!---
 Vineela91/Vineela91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
